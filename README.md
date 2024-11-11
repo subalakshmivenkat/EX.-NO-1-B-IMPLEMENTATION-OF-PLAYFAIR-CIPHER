@@ -1,4 +1,4 @@
-# EX.-NO-1-B-IMPLEMENTATION-OF-PLAYFAIR-CIPHER
+# EX.-NO-1B-IMPLEMENTATION OF PLAYFAIR CIPHER
 
 ## AIM:
   To write a C program to implement the Playfair Substitution technique.
